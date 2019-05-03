@@ -1,6 +1,8 @@
 # Orion_Cap_Fantastic
 
 11
+
+
 #Variable Analysis -> loan_amnt (Duplicate Variable - Ignored)
 print("% of Missing Values = ",train['loan_amnt'].isnull().sum()/train.shape[0]*100)
 print("-----------------------------------------------------------")
@@ -17,3 +19,13 @@ os.chdir('C:\\Users\\v113805\\Documents\\Orion_EXL')
 os.listdir()
 #wd = os.getcwd()
 #wd
+
+
+
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+https://towardsdatascience.com/logistic-regression-a-simplified-approach-using-python-c4bc81a87c31
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+
+https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
+https://discuss.analyticsvidhya.com/t/is-concordance-the-best-way-to-predict-logistic-regression-model-reliability/267
+
