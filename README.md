@@ -1,7 +1,7 @@
 # Orion_Cap_Fantastic
-
+https://towardsdatascience.com/useful-sentiment-analysis-mining-sec-filings-part-1-358942fc98ed
 11
-
+https://www.hertzler.com/manual/8.9.1/7_Appendices/SPC/CalcNormalityOfDist.htm
 
 #Variable Analysis -> loan_amnt (Duplicate Variable - Ignored)
 print("% of Missing Values = ",train['loan_amnt'].isnull().sum()/train.shape[0]*100)
