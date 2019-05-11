@@ -1,6 +1,8 @@
 # Orion_Cap_Fantastic
 https://towardsdatascience.com/useful-sentiment-analysis-mining-sec-filings-part-1-358942fc98ed
-11
+
+https://www.linkedin.com/learning/python-for-data-science-essential-training/getting-started-with-jupyter?autoplay=true&trk=course_preview&upsellOrderOrigin=trk_default_learning
+
 https://www.hertzler.com/manual/8.9.1/7_Appendices/SPC/CalcNormalityOfDist.htm
 
 #Variable Analysis -> loan_amnt (Duplicate Variable - Ignored)
